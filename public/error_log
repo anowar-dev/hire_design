@@ -1,0 +1,2 @@
+[03-Jul-2023 07:41:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\enrollcontroller::enroll_view() in /home/sultanbr/innovativeskillsbd.com/app/Http/Controllers/enrollcontroller.php on line 29
+[03-Jul-2023 07:41:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\enrollcontroller::enroll_view() in /home/sultanbr/innovativeskillsbd.com/app/Http/Controllers/enrollcontroller.php on line 29
